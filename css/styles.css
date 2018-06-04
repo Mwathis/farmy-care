@@ -1,0 +1,43 @@
+.box1 {
+  background-image: linear-gradient(to right top, #45cf28, #00c28d, #00acc4, #0090ca, #5b72a6);
+  height: 250px;
+}
+#care {
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Acme', sans-serif;
+  color: white;
+  padding-top: 100px;
+}
+.box2 {
+  margin-top: 30px;
+}
+#description {
+  padding: 50px,0px,0px,10px;
+}
+#location-text {
+  margin-bottom: 40px;
+}
+#submitLocation {
+  margin-left: 15px;
+}
+#locationInput {
+  margin: auto;
+  text-align:center;
+  width:60%;
+}
+.box4 {
+  background-image: linear-gradient(to right top, #45cf28, #00c28d, #00acc4, #0090ca, #5b72a6);
+  height: 100px;
+  margin-top: 80px;
+}
+#footer {
+  text-align: center;
+  color: white;
+  padding-top: 30px;
+}
+#geo-points {
+  margin: auto;
+  text-align:center;
+  width:60%;
+}
