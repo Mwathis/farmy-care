@@ -6,7 +6,7 @@
 3. Moffat Ombasa
 
 ## Description
-Farmy Care is a web application that enables farmers to know weather conditions of their areas to help them plan their farm activities effectively.
+local Cast is a web application that enables users to know the weather conditions of their areas to help them plan their daily activities.
 
 ## Technologies
 1. HTML
