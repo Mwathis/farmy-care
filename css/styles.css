@@ -22,13 +22,13 @@
   margin-left: 15px;
 }
 #locationInput {
-  margin: auto;
+  margin-left:470px;
   text-align:center;
   width:60%;
 }
 .box4 {
   background-image: linear-gradient(to right top, #45cf28, #00c28d, #00acc4, #0090ca, #5b72a6);
-  height: 100px;
+  height: 130px;
   margin-top: 80px;
 }
 #footer {
